@@ -1,0 +1,57 @@
+# white list gitignore
+
+# ignore everything except dirs (so that git checks files inside of dirs they wont be added unless a file inside is whitelisted)
+*
+!*/
+
+# track gitignore
+!.gitignore
+
+
+# track alacritty
+!alacritty/**
+
+# track bspwm
+!bspwm/**
+
+# track btop
+!btop/**
+
+# track cava
+!cava/**
+
+# track fish
+!fish/**
+
+# track macchina
+!macchina/**
+
+# track mangal
+!mangal/**
+
+# track neofetch
+!neofetch/**
+
+# track polybar
+!polybar/**
+
+# track ranger
+!ranger/**
+
+# track rofi
+!rofi/**
+
+# track starship
+!starship/**
+
+# track sxhkd
+!sxhkd/**
+
+# track wal
+!wal/**
+
+# track wayfire
+!wayfire/**
+
+# track zathura
+!zathura/**
