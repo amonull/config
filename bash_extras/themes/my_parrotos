@@ -1,0 +1,23 @@
+#!/usr/bin/bash
+
+# LINE 4 TO .bashrc
+#PS1='$(tput setaf 160)┌─[$(tput setaf 46)\u$(tput setaf 220)@$(tput setaf 51)\h$(tput setaf 160)]-[$(tput setaf 129)\w$(tput setaf 160)]\n└──╼\$ $(tput setaf 46)'
+
+# TEXT BELOW FOR COMPLEX NON FUNCTIONAL USE
+
+#red="$(tput setaf 160)"
+#bright_red="$(tput setaf 196)"
+#purple="$(tput setaf 129)"
+#orange="$(tput setaf 172)"
+#blue="$(tput setaf 21)"
+#cyan="$(tput setaf 51)"
+#green="$(tput setaf 46)"
+#yellow="$(tput setaf 220)"
+#reset="$(tput sgr0)"
+
+
+#PS1='${red}┌─[${green}\u${yellow}@${cyan}\h${red}]-[${purple}\w${red}]\n└──╼\$ ${green}'
+
+#export PS1
+
+echo "either copy line 4 to .bashrc or uncomment from below line 6 and comment this echo and copy to .bash_prompt"

@@ -55,3 +55,6 @@
 
 # track zathura
 !zathura/**
+
+# track bash_extras
+!bash_extras/**
