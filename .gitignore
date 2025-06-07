@@ -58,3 +58,6 @@
 
 # track bash_extras
 !bash_extras/**
+
+# track nvim
+!nvim/**
