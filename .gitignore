@@ -26,8 +26,8 @@
 # track macchina
 !macchina/**
 
-# track mangal
-!mangal/**
+# track mangal.toml
+!mangal/mangal.toml
 
 # track neofetch
 !neofetch/**
